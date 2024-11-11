@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dannymerinoo/azure-network-protocols)
 - <b>Virtual Machines</b>
 
-  -[Creating a Virtual Machine with Azure](https://github.com/dannymerinoo/Creating-Virtual-Machine)
+  - [Creating a Virtual Machine with Azure](https://github.com/dannymerinoo/Creating-Virtual-Machine)
 
 
 
