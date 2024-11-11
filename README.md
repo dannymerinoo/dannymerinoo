@@ -9,6 +9,11 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dannymerinoo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dannymerinoo/azure-network-protocols)
+- <b>Virtual Machines</b>
+
+  -[Creating a Virtual Machine with Azure](https://github.com/dannymerinoo/Creating-Virtual-Machine)
+
+
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/daniel-merino-8945b7316/
